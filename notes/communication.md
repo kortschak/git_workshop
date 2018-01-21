@@ -111,6 +111,27 @@ It is particularly important to leave a blank line between the summary line and 
 
 An additional guideline used by some projects is that the summary line should be written such that it would complete the sentence "This change modifies the code/text to \_\_\_\_\_."
 
+Another similar view is presented [here](https://groups.google.com/d/msg/golang-dev/s07ZUR8ZDHo/i-rIsknbAwAJ) by Rob Pike.
+
+```
+... make sure the CL descriptions are well-written and follow our conventions.
+
+- first line has form "component: change"
+- blank line follows
+- description after first line is full sentences, in clean grammatical English
+- purpose of CL is explained
+- mechanism of CL is explained
+- for performance-related CLs, benchmark information is presented
+
+and so on.
+
+The CL description is a public document that explains to the future what
+has been done and why. Please think of it that way, not as a side note to
+the code. In many ways it is as important as the code, and will often last
+```
+
+Also [here](https://groups.google.com/forum/#!msg/golang-dev/6M4dmZWpFaI/SyU5Sl4zZLYJ) with a deeper discussion.
+
 As noted [here](https://github.com/erlang/otp/wiki/writing-good-commit-messages), "if it seems difficult to summarize what your commit does, it may be because it includes several logical changes or bug fixes, and are better split up into several commits".
 
 It is worth reading [this blog post about commit messages](http://who-t.blogspot.com.au/2009/12/on-commit-messages.html).

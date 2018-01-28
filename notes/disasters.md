@@ -101,3 +101,7 @@ $ git commit # This may need significant justification for the resolution.
 The merge will then continue until the next conflict - in multi commit merges this can happen repeatedly and is sometimes challenging.
 
 The best way to deal with conflicts though is to avoid them if possible.
+This can be achieved easily by following two rules:
+
+- Always pull from the upstream master before working.
+- Don't work on parts of files that are the subject of another pending changes (look through the outstanding pull requests or ask other collaborators).

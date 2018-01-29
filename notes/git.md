@@ -37,12 +37,12 @@ In the case of a repository with more than one commit, the commit datastructure 
 ![A multi-commit repository](https://www.git-scm.com/figures/18333fig0302-tn.png)
 
 This means that if we know the most recent we can follow the parent links to the original commit.
-A commit may have more than one parent, but it is not possible for a commit to point to it children.
+A commit may have more than one parent, but it is not possible for a commit to point to its children.
 This set of properties means that the git commit history is a directed acyclic graph.
 
 In order to be able to keep track of the most recent version or versions that are being worked on concurrently,
 Git adds the notion of a branch which is simply a pointer to the most recent addition.
-When you add new commit, the current branch pointer moves from pointing to the previous commit to the new one.
+When you add a new commit, the current branch pointer moves from pointing to the previous commit to the new one.
 
 ![Single branch](https://www.git-scm.com/figures/18333fig0303-tn.png)
 

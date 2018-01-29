@@ -100,6 +100,14 @@ $ git commit # This may need significant justification for the resolution.
 
 The merge will then continue until the next conflict - in multi commit merges this can happen repeatedly and is sometimes challenging.
 
+A useful tool provided by git is `git mergetool`.
+This command invokes a conflict resolution tool that displays conflicts in a graphical way, allowing you to select which part to include in the merge.
+You can specify which tool you actually want to do the work of `git mergetool` by running the command `git config --global merge.tool <tool>`;
+common tools are `meld`, `vimdiff` and `kdiff3`. The `emacs` editor may also be used as a merge tool.
+The following image shows a merge tool window where the `meld` command has been used as the tool.
+
+![Meld window resolving merge conflict](https://i.stack.imgur.com/QRzUR.png) 
+
 The best way to deal with conflicts though is to avoid them if possible.
 This can be achieved easily by following two rules:
 

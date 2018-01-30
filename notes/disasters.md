@@ -113,3 +113,8 @@ This can be achieved easily by following two rules:
 
 - Always pull from the upstream master before working.
 - Don't work on parts of files that are the subject of another pending changes (look through the outstanding pull requests or ask other collaborators).
+
+A handy hint for working on manuscript documents is to make line breaks at sentences rather than paragraphs.
+Since the diff algorithm that git uses is line based, this reduces the likelihood that any pair of changes will collide,
+and also makes changes in text easier to find and think about.
+In software documents, this is rarely a problem since lines of code tend to be shorter than lines of natural language (even when the natural language is broken at sentence boundaries).

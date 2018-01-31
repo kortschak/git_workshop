@@ -82,7 +82,9 @@ Once you have made the desired change to the `PARTICIPANTS.md` file, checkout a 
 
 ## Commit messages
 
-Just as comments in code indicate the intention behind the code or explain difficult, unusual or unexpected procedures, commit message explain the reasons behind changes, particularly if the change is unexpected without inside knowledge.
+Just as comments in code indicate the intention behind the code or explain difficult,
+unusual or unexpected procedures, commit messages explain the reasons behind changes,
+particularly if the change is unexpected without inside knowledge.
 
 The flow of commit messages in a `git log` output should tell a story and certainly not be like this...
 

@@ -6,7 +6,7 @@
 Most of the code that is written is written by teams of people.
 Historically these teams have been colocated in the same building or at least in the same institution or company.
 Modern teams are now often widely distributed, for example a project I work on, the Gonum project (with ~50 contributors of varying degrees of input), has no other contributor in Australia as far as I know -
-the top contributors are in Australia, Europe and the US - none have ever actually met each other.
+the top contributors are in Australia, Europe and the US - none has ever actually met each other.
 
 How is this possible?
 

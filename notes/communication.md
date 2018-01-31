@@ -67,7 +67,7 @@ Clone the git workshop git\_workshop\_18 repository that you have forked:
 $ git clone git@github.com:<githubusername>/git_workshop_18.git
 ```
 
-This will have placed a copy of the upstream git\_workshop\_18 repository at your current location (read `man git-clone` to change this behaviour).
+This will have placed a copy of the upstream git\_workshop\_18 repository at your current location (read `man git-clone` to see how to change this behaviour).
 
 Note that you can get the link for any GitHub-hosted repository from the green "Clone or download" button to the right of the front page of the project;
 this is available on all repositories that you can see, you do not need to be the owner.

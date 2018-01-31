@@ -117,7 +117,7 @@ A good visual reference that goes through a similar set of changes, and more, is
 
 ## Set-up
 
-Now that you have Git on your system, you’ll want to do a few things to customize your Git environment.
+Now that you have git on your system, you’ll want to do a few things to customize your git environment.
 You should have to do these things only once; they’ll stick around between upgrades.
 You can also change them at any time by running through the commands again.
 
@@ -138,7 +138,7 @@ so values in `.git/config` trump those in `/etc/gitconfig`.
 ### Your identity
 
 The first thing you should do when you install git is to set your user name and e-mail address.
-This is important because every Git commit uses this information, and it's immutably included in the commits you pass around:
+This is important because every git commit uses this information, and it's immutably included in the commits you pass around:
 
 ```
 $ git config --global user.name "My Name"

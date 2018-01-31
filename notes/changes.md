@@ -13,8 +13,6 @@ These states are *untracked*, *unmodified*, *modified* and *staged*.
 Some of the transitions between states come from modifying files in your editor (or otherwise).
 Git provides commands to move files between states so that it can maintain the history of your changes.
 
-Parts of https://try.github.io/ plus rebasing, merging etc.
-
 In the following excercise you will create a repository and make a some changes to the files in the repository.
 This will show how the files move between the different possible states and what commands can be used to make these transitions.
 It will be valuable to refer back to the file status lifecycle diagram from the previous page.

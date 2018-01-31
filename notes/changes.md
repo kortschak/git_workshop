@@ -49,7 +49,7 @@ $ git status
 
 The following command will add a trivial Markdown file and add it to the repository.
 Note that adding a file involves two git commands: `add` and `commit`, and that committing requires that some text be added explaining what is happening.
-If you do not include the commit message flad, `-m`, git will start an editor to add a message.
+If you do not include the commit message flag, `-m`, git will start an editor to add a message.
 You should make your messages meaningful and easy to read.
 
 ```

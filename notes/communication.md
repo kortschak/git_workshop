@@ -41,7 +41,7 @@ The second approach still maintains a centralised repository, the blessed reposi
 
 However, in the blessed repository case, each collaborator works on their private repository,
 and makes the work visible publically via another, public repository that they own.
-Collaborators keep their repositories up to date with the blessed repository by using git `pull` or `fetch`.
+Collaborators keep their repositories up to date with the blessed repository by using `git pull` or `git fetch`.
 
 In practice most projects hosted on GitHub probably use a mixture of these two models;
 the Gonum project used a shared repository model for members of the organisation and a blessed repository that any member can integrate work from external contributors into.

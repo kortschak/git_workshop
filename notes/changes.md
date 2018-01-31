@@ -208,7 +208,7 @@ $ git commit -m "Remove all the txt files"
 
 ### Q: What does the `rm` subcommand do?
 
-### Q: Check the difference between `master` and `clean` with `git diff`.
+### Q: What are the difference between `master` and `clean` according to `git diff`.
 
 Now move back to the `master` branch and merge the changes.
 Finally, remove the `clean` branch since its changes are kept in `master`.
@@ -219,49 +219,4 @@ $ git merge clean
 $ git branch -d clean
 ```
 
-
-
-https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is
-https://git-scm.com/book/en/v1/Git-Branching-Basic-Branching-and-Merging
-https://git-scm.com/book/en/v1/Git-Branching-Branch-Management
-https://git-scm.com/book/en/v1/Git-Branching-Branching-Workflows
-https://git-scm.com/book/en/v1/Git-Branching-Rebasing
-
-https://git-scm.com/book/en/v1/Git-Branching-Remote-Branches
-
-https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/
-```
-$ git remote add origin https://github.com/try-git/try_git.git
-
-$ git push -u origin master
-
-$ git pull origin master
-
-$ git diff HEAD
-
-$ git add octofamily/octodog.txt
-
-$ git diff --staged
-
-$ git reset octofamily/octodog.txt
-
-$ git checkout -- octocat.txt
-
-$ git branch clean_up
-
-$ git checkout clean_up
-
-$ git rm '*.txt'
-
-$ git commit -m "Remove all the cats"
-
-$ git checkout master
-
-$ git merge clean_up
-
-$ git branch -d clean_up
-
-$ git push
-```
-
-
+### Q: How many branches now exist in the repository?

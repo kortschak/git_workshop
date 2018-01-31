@@ -31,14 +31,20 @@ and a single blessed repository that a single 'owner' accepts changes made to co
 
 ![Shared repository](https://git-scm.com/figures/18333fig0501-tn.png)
 
-One central hub, or repository, can accept code, and everyone synchronizes their work to it. A number of developers are nodes — consumers of that hub — and synchronize to that one place.
+In the the shared repository model, one central hub, or repository, can accept code,
+and everyone synchronizes their work to it.
+A number of developers are nodes — consumers of that hub — and synchronize to that one place.
+
+The second approach still maintains a centralised repository, the blessed repository.
 
 ![Blessed repository](https://git-scm.com/figures/18333fig0502-tn.png)
 
-In the blessed repository case, each collaborator works on their private repository, but makes the work visible publically via another, public repository.
+However, in the blessed repository case, each collaborator works on their private repository,
+and makes the work visible publically via another, public repository that they own.
 Collaborators keep their repositories up to date with the blessed repository by using git `pull` or `fetch`.
 
-In practice most projects hosted on GitHub probably use a mixture of these two models; the Gonum project used a shared repository model for members of the organisation and a blessed repository that any member can integrate work from external contributors into.
+In practice most projects hosted on GitHub probably use a mixture of these two models;
+the Gonum project used a shared repository model for members of the organisation and a blessed repository that any member can integrate work from external contributors into.
 
 ## GitHub forks
 

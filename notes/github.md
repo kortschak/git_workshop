@@ -46,7 +46,7 @@ However, you can request free private repository rights if you are a student or 
 ## Setting up keys
 
 GitHub needs to know that the requests coming from your machine are from you.
-This can either be done using username/password pairs, but it is more convenient to share keys.
+This can be done using username/password pairs, but it is more convenient to share keys.
 First you will need to create a SSH key pair if you do not already have keys available.
 
 Check whether you have keys that you can use.

@@ -166,7 +166,7 @@ Then click "Create pull request" and wait for a review.
 
 To get a better feel of the pull request process, your first change will have some additional changes requested by the reviewer.
 Make the requested changes, stage and commit them and then push them as before (note the section on Etiquette below).
-Note that a pull request may have more than one commit and is attached to a branch rather than a commit - some project prefer single commit pull requests and there are ways to make this happen in the GitHub web interface.
+Note that a pull request may have more than one commit and is attached to a branch rather than a commit - some projects prefer single commit pull requests and there are ways to make this happen in the GitHub web interface.
 
 In a review different teams use shorthand to communicate common ideas tersely, a few common reviewer comments:
 

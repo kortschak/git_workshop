@@ -98,7 +98,7 @@ $ git add <conflictingfile(s)>
 $ git commit # This may need significant justification for the resolution.
 ```
 
-The merge will then continue until the next conflict - in multi commit merges this can happen repeatedly and is sometimes challenging.
+The merge will then continue until the next conflict - in multi-commit merges this can happen repeatedly and is sometimes challenging.
 
 A useful tool provided by git is `git mergetool`.
 This command invokes a conflict resolution tool that displays conflicts in a graphical way, allowing you to select which part to include in the merge.

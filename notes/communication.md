@@ -199,7 +199,7 @@ Acknowledge reviewer comments, either to show that the request change has been m
 
 Don't commit other people's work! (unless they cannot, they ask you to, or there is a general understand that this is OK for the project).
 
-Remember that without visual cues on-line communication can be easily misunderstood and review is potentially ego damaging,
+Remember that without visual and verbal cues on-line communication can be easily misunderstood and review is potentially ego damaging,
 so be more polite than you would be in person, and be more charitable in the face of criticism.
 
 ![Code quality](https://imgs.xkcd.com/comics/code_quality.png)

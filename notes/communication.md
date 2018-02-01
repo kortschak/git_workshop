@@ -119,7 +119,8 @@ It is particularly important to leave a blank line between the summary line and 
 
 An additional guideline used by some projects is that the summary line should be written such that it would complete the sentence "This change modifies the code/text to \_\_\_\_\_."
 
-Another similar view is presented [here](https://groups.google.com/d/msg/golang-dev/s07ZUR8ZDHo/i-rIsknbAwAJ) by Rob Pike.
+Another similar view is presented [here](https://groups.google.com/d/msg/golang-dev/s07ZUR8ZDHo/i-rIsknbAwAJ) by Rob Pike
+(note that CL, for Change List, is equivalent here to Commit).
 
 ```
 ... make sure the CL descriptions are well-written and follow our conventions.

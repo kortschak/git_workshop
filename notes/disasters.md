@@ -91,7 +91,7 @@ William
 
 The conflict markers should be removed during the edit - always check that they have been removed before moving on.
 
-Once the conflict has been resolved (and tested) in the file you then stage the file and commit it and then merge.
+Once the conflict has been resolved in the file (and tested) you then stage the file and commit it and then merge.
 
 ```
 $ git add <conflictingfile(s)>

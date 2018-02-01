@@ -168,7 +168,8 @@ To get a better feel of the pull request process, your first change will have so
 Make the requested changes, stage and commit them and then push them as before (note the section on Etiquette below).
 Note that a pull request may have more than one commit and is attached to a branch rather than a commit - some projects prefer single commit pull requests and there are ways to make this happen in the GitHub web interface.
 
-In a review different teams use shorthand to communicate common ideas tersely, a few common reviewer comments:
+In a review, different teams use shorthand to communicate common ideas tersely.
+Here are a few common reviewer comments:
 
 * `LGTM` - looks good to me
 * `SGTM` - sounds good to me

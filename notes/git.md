@@ -18,8 +18,8 @@ This is shown in the following figure.
 
 First, files can be tracked or untracked.
 Tracked files can be modified, changing from unmodified.
-If a file that is modified needs to be commited to the repository, it must first be staged.
-Staged files can then be commited, changing the state back to unmodified as far as git is concerned.
+If a file that is modified needs to be committed to the repository, it must first be staged.
+Staged files can then be committed, changing the state back to unmodified as far as git is concerned.
 
 The discussion below shows the commands that are necessary to commit files.
 

@@ -120,7 +120,7 @@ Try the command above again, but with the `-p` flag (also look at `man git-log` 
 The `status` and `log` subcommands allow you to see the overall status, and changes that have been committed to the repository, but not uncommitted changes.
 Git has a subcommand, `diff` that will show these differences (usually only with *tracked* files).
 
-First make a new *tracked* but uncommited file.
+First make a new *tracked* but uncommitted file.
 
 ```
 $ echo "contents of the subdir/f file" > subdir/f.txt

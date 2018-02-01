@@ -191,6 +191,8 @@ $ git checkout master
 $ git branch -D <branchname>
 ```
 
+Then pull the most recent `master` branch from the upstream repository to check that your change is there.
+
 ## Etiquette
 
 Acknowledge reviewer comments, either to show that the request change has been made, to explain why you don't think it should be, or at least acknowledge that a comment has been read by you.

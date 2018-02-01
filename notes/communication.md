@@ -161,8 +161,8 @@ This will output some lines showing the push's progress.
 When it has completed navigate to your GitHub fork's front page and you will see a banner with the name of the branch you pushed and green button to the right, "Compare & pull request".
 Click the button (if there is no green button, you can click the button "New pull request" on the left of the page).
 This will take you to the "Open a pull reqest page" where you can add additional information and request a reviewer.
-Select a revier from, add some useful information to the body of the pull request form and check the subject and code changes are correct.
-Then click "Create pull request" and for a review.
+Select a reviewer from the list, add some useful information to the body of the pull request form and check the subject and code changes are correct.
+Then click "Create pull request" and wait for a review.
 
 To get a better feel of the pull request process, your first change will have some additional changes requested by the reviewer.
 Make the requested changes, stage and commit them and then push them as before (note the section on Etiquette below).

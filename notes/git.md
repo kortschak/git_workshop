@@ -169,7 +169,7 @@ Say you want to use vimdiff:
 $ git config --global merge.tool vimdiff
 ```
 
-Git accepts kdiff3, tkdiff, meld, xxdiff, emerge, vimdiff, gvimdiff, ecmerge, and opendiff as valid merge tools.
+Git accepts `kdiff3`, `tkdiff`, `meld`, `xxdiff`, `emerge`, `vimdiff`, `gvimdiff`, `ecmerge`, and `opendiff` as valid merge tools.
 
 ### Checking your settings
 

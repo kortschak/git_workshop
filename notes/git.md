@@ -63,7 +63,7 @@ Git keeps a global state variable for the current branch, called `HEAD`.
 
 ![Two branches, one `HEAD`](https://www.git-scm.com/figures/18333fig0305-tn.png)
 
-Note that the `HEAD` point to a branch, not a commit, so in the example above, a commit would add to `master` and progress that branch.
+Note that the `HEAD` points to a branch, not a commit, so in the example above, a commit would add to `master` and progress that branch.
 Changing branch involves changing the branch that `HEAD` points to, although sometimes this may be an anonymous branch.
 
 ```

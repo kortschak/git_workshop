@@ -26,8 +26,10 @@ The basic model of data storage for git is a directed acyclic graph of objects.
 This basic model has, layered on top of it, local and network stores for the data.
 These can be used to construct a variety of network-based structures for working on shared projects, or workflows.
 
-Two commonly used workflows are a single shared repository that all the collaborators on the project can alter
-and a single blessed repository that a single 'owner' accepts changes made to collaborators' publicly visible repositories.
+Two commonly used workflows are
+
+1. a single shared repository that all the collaborators on the project can alter, and
+2. a single blessed repository that a single 'owner' accepts changes made to collaborators' publicly visible repositories.
 
 ![Shared repository](https://git-scm.com/figures/18333fig0501-tn.png)
 

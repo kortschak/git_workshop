@@ -8,7 +8,7 @@ instructional document, or the source code of a piece of software.
 Version control at its best provides a history of how a document got to be how it is now and the rationale for that path.
 
 Historically, and still commonly in much of the world, version control is as limited as maintaining a set of distinctly named files or archives with an _ad hoc_ revision annotation.
-These systems may, but often don't, include the reasons for changes and which version was the immediate precedessor.
+These systems may, but often don't, include the reasons for changes and which version was the immediate predecessor.
 They never scale well over time or for number of people involved.
 They cause inordinate levels of pain for those that use them.
 
@@ -20,7 +20,7 @@ and later the Revision Control System (RCS) was written, adding the ability to o
 These tools constitute the first generation of version control tools.
 They were designed for single file, single user use.
 
-The second generation of version control systems start in 1986 with the deverklopment of the Concurrent Versions System (CVS).
+The second generation of version control systems start in 1986 with the development of the Concurrent Versions System (CVS).
 This tool, still in use in some places, allows more than one person to edit files and for multiple files to be tracked.
 CVS was followed by Subversion (SVN) in 2000 which added features and improved on CVS.
 Both CVS and SVN host the version-controlled text on a centralised server, allowing users to checkout files,

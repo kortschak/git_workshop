@@ -209,11 +209,10 @@ If there is one, follow it.
 
 ## Additional reading for GitHub
 
-https://help.github.com/categories/collaborating-with-issues-and-pull-requests/
-
-https://help.github.com/articles/about-pull-requests/
-https://help.github.com/articles/merging-a-pull-request/
-https://help.github.com/articles/closing-a-pull-request/
-https://help.github.com/articles/deleting-unused-branches/
-https://help.github.com/articles/about-pull-request-merges/
+- https://help.github.com/categories/collaborating-with-issues-and-pull-requests/
+- https://help.github.com/articles/about-pull-requests/
+- https://help.github.com/articles/merging-a-pull-request/
+- https://help.github.com/articles/closing-a-pull-request/
+- https://help.github.com/articles/deleting-unused-branches/
+- https://help.github.com/articles/about-pull-request-merges/
 

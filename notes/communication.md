@@ -137,6 +137,7 @@ and so on.
 The CL description is a public document that explains to the future what
 has been done and why. Please think of it that way, not as a side note to
 the code. In many ways it is as important as the code, and will often last
+longer.
 ```
 
 Also [here](https://groups.google.com/forum/#!msg/golang-dev/6M4dmZWpFaI/SyU5Sl4zZLYJ) with a deeper discussion.

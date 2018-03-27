@@ -52,7 +52,7 @@ the Gonum project used a shared repository model for members of the organisation
 
 In order to add the social coding layers that GitHub provides, GitHub allows a user to make a copy of a repository that that user can make modifications to.
 This is called forking (and is an abuse of the term as it is generally understood, but we will continue with it here - just understand that a github fork is not necessarily a fork in the broader sense).
-Navigate to the git workshop repository [here](https://github.com/UofABioinformaticsHub/git_workshop_18) and click the "Fork" button at the top right of the window.
+Navigate to the git workshop repository [here](https://github.com/kortschak/git_workshop_18) and click the "Fork" button at the top right of the window.
 This will bring up a dialogue asking where you want to put the copy if you have write access to more than one set of repositories, otherwise it will make a copy and take you to the front page of that copy.
 
 ### Q: How can someone find out where a fork has originally come from?

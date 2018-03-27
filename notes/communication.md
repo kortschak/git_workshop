@@ -74,9 +74,7 @@ This will have placed a copy of the upstream git\_workshop\_18 repository at you
 Note that you can get the link for any GitHub-hosted repository from the green "Clone or download" button to the right of the front page of the project;
 this is available on all repositories that you can see, you do not need to be the owner.
 
-### Q: Compare the options for cloning from your fork of the git\_completion\_18 repository and the original at github.com/UofABioinformaticsHub/git\_completion\_18. How do they differ? Why?
-
-https://git-scm.com/book/en/v1/Distributed-Git-Distributed-Workflows
+### Q: Compare the options for cloning from your fork of the git\_workshop\_18 repository and the original at github.com/kortschak/git\_workshop\_18. How do they differ? Why?
 
 Make a change to the line of the `PARTICIPANTS.md` file with your workshop ID number adding anything you want to that line.
 

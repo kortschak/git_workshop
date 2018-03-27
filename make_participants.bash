@@ -7,4 +7,4 @@ fi
 
 n=$1
 
-(for p in {1..$n}; do echo -e "Person\n\n$p\n\n\n"; done) > PARTICIPANTS.md
+(for p in $(seq $n); do echo -e "Person\n\n$p\n\n\n"; done) > PARTICIPANTS.md

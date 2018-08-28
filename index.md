@@ -1,8 +1,8 @@
 # Collaboration
 
-## Presented by the Bioinformatics Hub <br> University of Adelaide
+## Presented at the Bioinformatics Hub
 
-University of Adelaide
+Dan Kortschak
 
 # Course Material
 

@@ -1,18 +1,48 @@
 Person
 
-Anureet
-Date:27 March 2018
+1
 
 
 
 Person
 
 2
-Good workshops.
+
+
 
 Person
 
 3
-# Thank you for the git workshop, I found it really useful.
-# The workshop was held on 27 Mar, 2018
+
+
+
+Person
+
+4
+
+
+
+Person
+
+5
+
+
+
+Person
+
+6
+
+
+
+Person
+
+7
+
+
+
+Person
+
+8
+
+
 

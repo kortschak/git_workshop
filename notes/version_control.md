@@ -65,14 +65,4 @@ Why is the SHA-1 of the previous version(s) also included in the hashed stream? 
 
 2. If you knew that the input that generated the SHA-1 hash above was a single word, how would you find the word?
 
-[//]: # (#!/bin/bash
-for w in $(cat /usr/share/dict/words); do
-	sha1="$(echo $w | sha1sum | cut -d ' ' -f 1)"
-	if [ "$sha1" = "f164acde21f01cf3b2ba4f7dd650d9bf2a699b96" ]; then
-		echo $w
-		exit 0
-	fi
-done
-exit 1)
-
 The next section will go into greater details about how git works and how it is used.

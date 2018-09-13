@@ -18,7 +18,7 @@ By looking at the output of `git reflog` you find a commit you were at and use `
 Obviously, this will not work if you did not commit the changes you were working on and those changes were lost.
 
 To see this in action check out a commit that you have made recently and deleted the references to.
-You will have created commits for the changes you sent to the git\_workshop\_18 repository,
+You will have created commits for the changes you sent to the git\_workshop repository,
 but those should have been deleted after they were merged into the upstream repository.
 
 Run the `reflog` subcommand to see the history of your `HEAD`s.

@@ -36,6 +36,7 @@ $ git checkout <sha-1>
 ```
 
 ### Q: If you wanted to recover this commit as a branch, how would you do this?
+{:.no_toc}
 
 Note that there may be more than one line with the summary line you want since it is possible to repeatedly commit the same commit,
 while changing the code and the commit time (see `--amend` in `man git-commit`).

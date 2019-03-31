@@ -56,6 +56,7 @@ Navigate to the git workshop repository [here](https://github.com/kortschak/git_
 This will bring up a dialogue asking where you want to put the copy if you have write access to more than one set of repositories, otherwise it will make a copy and take you to the front page of that copy.
 
 ### Q: How can someone find out where a fork has originally come from?
+{:.no_toc}
 
 ## Cloning, pulling and fetching code
 
@@ -75,6 +76,7 @@ Note that you can get the link for any GitHub-hosted repository from the green "
 this is available on all repositories that you can see, you do not need to be the owner.
 
 ### Q: Compare the options for cloning from your fork of the git\_workshop repository and the original at github.com/kortschak/git\_workshop. How do they differ? Why?
+{:.no_toc}
 
 Make a change to the line of the `PARTICIPANTS.md` file with your workshop ID number adding anything you want to that line.
 

@@ -59,6 +59,7 @@ $ git commit -m "Add README"
 ```
 
 ### Q: What state changes do `add` and `commit` make to the file?
+{:.no_toc}
 
 Now add a few more files to make things interesting.
 
@@ -81,6 +82,7 @@ $ git status
 ```
 
 ### Q: Why does the a.txt file not show up in the output of `git status`?
+{:.no_toc}
 
 Hint: Rule of Silence. Why?
 
@@ -96,6 +98,7 @@ $ git status
 ```
 
 ### Q: Why do the status outputs differ between these two commands?
+{:.no_toc}
 
 Then commit the new files to the repository.
 
@@ -116,6 +119,7 @@ $ git log
 Try the command above again, but with the `-p` flag (also look at `man git-log` for other useful flags).
 
 ### Q: Find a flag that will show you how many lines were changed in each file for each commit.
+{:.no_toc}
 
 The `status` and `log` subcommands allow you to see the overall status, and changes that have been committed to the repository, but not uncommitted changes.
 Git has a subcommand, `diff` that will show these differences (usually only with *tracked* files).
@@ -134,6 +138,7 @@ $ git diff --staged
 ```
 
 ### Q: What are the differences between these three invocations of `git diff`? Do you expect to see any difference in their output?
+{:.no_toc}
 
 Now make changes to the files, note that both are tracked, but only one is committed to the repository.
 
@@ -152,6 +157,7 @@ $ git diff --staged
 ```
 
 ### Q: What are the differences between these three invocations of `git diff` this time?
+{:.no_toc}
 
 Now stage the `a.txt` file and examine the output of `git diff` again.
 
@@ -188,6 +194,7 @@ $ git checkout -b clean
 ```
 
 ### Q: What does the `-b` flag do? Is there another way to express this command?
+{:.no_toc}
 
 Hint: See the previous page.
 
@@ -207,8 +214,10 @@ $ git commit -m "Remove all the txt files"
 ```
 
 ### Q: What does the `rm` subcommand do?
+{:.no_toc}
 
 ### Q: What are the difference between `master` and `clean` according to `git diff`.
+{:.no_toc}
 
 Now move back to the `master` branch and merge the changes.
 Finally, remove the `clean` branch since its changes are kept in `master`.
@@ -220,3 +229,4 @@ $ git branch -d clean
 ```
 
 ### Q: How many branches now exist in the repository?
+{:.no_toc}

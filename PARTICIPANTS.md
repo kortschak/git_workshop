@@ -31,7 +31,7 @@ Chelsea is very cool. She got an easter egg today. Yayyy!!
 Person
 
 6
-
+Joe was here?
 
 
 Steve Pe(de)rson

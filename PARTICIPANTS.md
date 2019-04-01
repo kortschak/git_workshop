@@ -25,7 +25,7 @@ Person
 Person
 
 5
-
+Chelsea is very cool. She got an easter egg today. Yayyy!!
 
 
 Person

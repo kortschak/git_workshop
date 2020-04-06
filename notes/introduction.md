@@ -38,7 +38,7 @@ The experience of typing these commands will equip you for future work far bette
 ## Computer Setup
 
 For those running OSX or Ubuntu we will be able to run today's session on your own machines.
-Many bioinformticians use these operating systems so the suite of tools is relatively mature.
+Many bioinformaticians use these operating systems so the suite of tools is relatively mature.
 In order to correctly configure your computer for today's session, please follow the links below.
 
 - [Mac/OSX](../install/osxInstall)

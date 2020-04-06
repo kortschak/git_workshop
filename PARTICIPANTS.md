@@ -1,6 +1,6 @@
 Person
 
-1. This is a line of text
+1. This is a line of text.
 
 
 
@@ -25,3 +25,6 @@ Person
 Person
 
 5
+-
+-
+-

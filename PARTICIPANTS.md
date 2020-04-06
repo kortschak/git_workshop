@@ -4,7 +4,7 @@ Person
 
 
 
-Karan - First edit
+Karan is currently working in the git_workshop session in the Bioinformatics Program.
 
 2
 

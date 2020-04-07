@@ -12,7 +12,7 @@ Karan is currently working in the git_workshop session in the Bioinformatics Pro
 
 Person
 
-3 New coming in github for bioinformatics.
+3 New coming in GitHub for bioinformatics.
 
 
 

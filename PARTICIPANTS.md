@@ -1,10 +1,10 @@
 Person
 
-1. This is a line of text.
+1
 
 
 
-Karan is currently working in the git_workshop session in the Bioinformatics Program.
+Person
 
 2
 
@@ -12,19 +12,49 @@ Karan is currently working in the git_workshop session in the Bioinformatics Pro
 
 Person
 
-3 New coming in GitHub for bioinformatics.
+3
 
 
 
 Person
 
 4
-Creating a line.
+
 
 
 Person
 
 5
+
+
+
+Person
+
+6
+
+
+
+Person
+
+7
+
+
+
+Person
+
+8
+
+
+
+Person
+
+9
+
+
+
+Person
+
+10
 
 
 
